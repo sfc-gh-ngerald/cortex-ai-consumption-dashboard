@@ -2,6 +2,12 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](LICENSE)
 
+All development credit goes to:
+**Michael Young** - Snowflake
+
+- Email: <michael.young@snowflake.com>
+- GitHub: [@sfc-gh-myoung](https://github.com/sfc-gh-myoung)
+
 A dashboard that tracks credits, tokens, and requests across the major Cortex AI surfaces in
 Snowflake, plus their virtual-warehouse compute. The project ships the same dashboard in two
 application interfaces. Both have the same pages, metrics, filters, URL parameters, and
